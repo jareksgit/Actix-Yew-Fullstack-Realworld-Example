@@ -13,5 +13,8 @@
 *.iml
 /.idea
 
+# DS_Store
+.DS_Store
+
 # env file
 .env
