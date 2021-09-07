@@ -1,0 +1,17 @@
+# Rust files
+/target
+**/*.rs.bk
+
+# Node files
+**/node_modules
+
+# Client build
+/client/dist
+/client/pkg
+
+# IDEA files
+*.iml
+/.idea
+
+# env file
+.env
